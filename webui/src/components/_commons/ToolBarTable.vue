@@ -1,5 +1,5 @@
 <template>
-  <q-toolbar class="row no-wrap items-center">
+  <q-toolbar class="row items-start">
     <q-btn-toggle
       v-model="getStatus"
       class="bar-toggle"
